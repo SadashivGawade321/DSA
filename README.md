@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SadashivGawade321/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SadashivGawade321/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SadashivGawade321/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
