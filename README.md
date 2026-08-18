@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SadashivGawade321/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SadashivGawade321/DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/SadashivGawade321/DSA/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/SadashivGawade321/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SadashivGawade321/DSA/tree/master/0136-single-number) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SadashivGawade321/DSA/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/SadashivGawade321/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
