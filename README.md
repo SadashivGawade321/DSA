@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SadashivGawade321/DSA/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SadashivGawade321/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
