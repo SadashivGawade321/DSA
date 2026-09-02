@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SadashivGawade321/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SadashivGawade321/DSA/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/SadashivGawade321/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SadashivGawade321/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SadashivGawade321/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/SadashivGawade321/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SadashivGawade321/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SadashivGawade321/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/SadashivGawade321/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/SadashivGawade321/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SadashivGawade321/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/SadashivGawade321/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SadashivGawade321/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SadashivGawade321/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SadashivGawade321/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SadashivGawade321/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SadashivGawade321/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SadashivGawade321/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SadashivGawade321/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
