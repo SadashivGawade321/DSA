@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/SadashivGawade321/DSA/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/SadashivGawade321/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/SadashivGawade321/DSA/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/SadashivGawade321/DSA/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/SadashivGawade321/DSA/tree/master/0595-big-countries) |
 ## Breadth-First Search
 |  |
