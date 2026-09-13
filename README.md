@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SadashivGawade321/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SadashivGawade321/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/SadashivGawade321/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SadashivGawade321/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SadashivGawade321/DSA/tree/master/0724-find-pivot-index) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SadashivGawade321/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SadashivGawade321/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SadashivGawade321/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SadashivGawade321/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SadashivGawade321/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SadashivGawade321/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SadashivGawade321/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -185,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SadashivGawade321/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
