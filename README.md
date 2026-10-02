@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
 | [3870-count-commas-in-range](https://github.com/SadashivGawade321/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SadashivGawade321/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/SadashivGawade321/DSA/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SadashivGawade321/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
