@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SadashivGawade321/DSA/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/SadashivGawade321/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SadashivGawade321/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SadashivGawade321/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/SadashivGawade321/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/SadashivGawade321/DSA/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/SadashivGawade321/DSA/tree/master/0344-reverse-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SadashivGawade321/DSA/tree/master/0046-permutations) |
 ## Database
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
