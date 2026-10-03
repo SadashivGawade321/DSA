@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SadashivGawade321/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SadashivGawade321/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/SadashivGawade321/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SadashivGawade321/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/SadashivGawade321/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SadashivGawade321/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SadashivGawade321/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SadashivGawade321/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SadashivGawade321/DSA/tree/master/0344-reverse-string) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
 | [3870-count-commas-in-range](https://github.com/SadashivGawade321/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SadashivGawade321/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SadashivGawade321/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SadashivGawade321/DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
