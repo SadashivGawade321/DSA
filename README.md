@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/SadashivGawade321/DSA/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/SadashivGawade321/DSA/tree/master/0619-biggest-single-number) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SadashivGawade321/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/SadashivGawade321/DSA/tree/master/1341-movie-rating) |
 ## Breadth-First Search
 |  |
 | ------- |
