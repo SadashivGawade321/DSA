@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/SadashivGawade321/DSA/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/SadashivGawade321/DSA/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/SadashivGawade321/DSA/tree/master/0601-human-traffic-of-stadium) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/SadashivGawade321/DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/SadashivGawade321/DSA/tree/master/0619-biggest-single-number) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SadashivGawade321/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/SadashivGawade321/DSA/tree/master/1341-movie-rating) |
