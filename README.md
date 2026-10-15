@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/SadashivGawade321/DSA/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SadashivGawade321/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/SadashivGawade321/DSA/tree/master/1341-movie-rating) |
+| [1587-bank-account-summary-ii](https://github.com/SadashivGawade321/DSA/tree/master/1587-bank-account-summary-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
