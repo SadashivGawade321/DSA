@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
 | [3870-count-commas-in-range](https://github.com/SadashivGawade321/DSA/tree/master/3870-count-commas-in-range) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SadashivGawade321/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/SadashivGawade321/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/SadashivGawade321/DSA/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/SadashivGawade321/DSA/tree/master/0344-reverse-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SadashivGawade321/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SadashivGawade321/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/SadashivGawade321/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
