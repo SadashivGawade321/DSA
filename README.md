@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/SadashivGawade321/DSA/tree/master/0326-power-of-three) |
 | [2235-add-two-integers](https://github.com/SadashivGawade321/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/SadashivGawade321/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SadashivGawade321/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/SadashivGawade321/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/SadashivGawade321/DSA/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SadashivGawade321/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
