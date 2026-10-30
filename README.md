@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SadashivGawade321/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SadashivGawade321/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SadashivGawade321/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3941-password-strength](https://github.com/SadashivGawade321/DSA/tree/master/3941-password-strength) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SadashivGawade321/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SadashivGawade321/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3941-password-strength](https://github.com/SadashivGawade321/DSA/tree/master/3941-password-strength) |
 ## Bit Manipulation
 |  |
 | ------- |
