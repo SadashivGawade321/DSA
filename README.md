@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SadashivGawade321/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/SadashivGawade321/DSA/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/SadashivGawade321/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SadashivGawade321/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SadashivGawade321/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SadashivGawade321/DSA/tree/master/0724-find-pivot-index) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SadashivGawade321/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SadashivGawade321/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/SadashivGawade321/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SadashivGawade321/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SadashivGawade321/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/SadashivGawade321/DSA/tree/master/0904-fruit-into-baskets) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SadashivGawade321/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SadashivGawade321/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/SadashivGawade321/DSA/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SadashivGawade321/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SadashivGawade321/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SadashivGawade321/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/SadashivGawade321/DSA/tree/master/0496-next-greater-element-i) |
 ## Quicksort
 |  |
 | ------- |
