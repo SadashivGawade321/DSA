@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SadashivGawade321/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SadashivGawade321/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SadashivGawade321/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SadashivGawade321/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SadashivGawade321/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SadashivGawade321/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SadashivGawade321/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SadashivGawade321/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SadashivGawade321/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SadashivGawade321/DSA/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SadashivGawade321/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SadashivGawade321/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SadashivGawade321/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/SadashivGawade321/DSA/tree/master/0493-reverse-pairs) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SadashivGawade321/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SadashivGawade321/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
