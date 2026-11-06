@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/SadashivGawade321/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/SadashivGawade321/DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/SadashivGawade321/DSA/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/SadashivGawade321/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/SadashivGawade321/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SadashivGawade321/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SadashivGawade321/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/SadashivGawade321/DSA/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/SadashivGawade321/DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/SadashivGawade321/DSA/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/SadashivGawade321/DSA/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/SadashivGawade321/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SadashivGawade321/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/SadashivGawade321/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/SadashivGawade321/DSA/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/SadashivGawade321/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
