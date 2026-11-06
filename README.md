@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/SadashivGawade321/DSA/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/SadashivGawade321/DSA/tree/master/0367-valid-perfect-square) |
 | [2235-add-two-integers](https://github.com/SadashivGawade321/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/SadashivGawade321/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SadashivGawade321/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SadashivGawade321/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/SadashivGawade321/DSA/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/SadashivGawade321/DSA/tree/master/0493-reverse-pairs) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SadashivGawade321/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SadashivGawade321/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
