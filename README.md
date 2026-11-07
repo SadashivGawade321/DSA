@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/SadashivGawade321/DSA/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/SadashivGawade321/DSA/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/SadashivGawade321/DSA/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0610-triangle-judgement](https://github.com/SadashivGawade321/DSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/SadashivGawade321/DSA/tree/master/0619-biggest-single-number) |
 | [1148-article-views-i](https://github.com/SadashivGawade321/DSA/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SadashivGawade321/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
