@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/SadashivGawade321/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SadashivGawade321/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SadashivGawade321/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
