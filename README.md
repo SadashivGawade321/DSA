@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SadashivGawade321/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SadashivGawade321/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/SadashivGawade321/DSA/tree/master/0326-power-of-three) |
+| [0343-integer-break](https://github.com/SadashivGawade321/DSA/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/SadashivGawade321/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SadashivGawade321/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SadashivGawade321/DSA/tree/master/0507-perfect-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/SadashivGawade321/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SadashivGawade321/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SadashivGawade321/DSA/tree/master/0152-maximum-product-subarray) |
+| [0343-integer-break](https://github.com/SadashivGawade321/DSA/tree/master/0343-integer-break) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SadashivGawade321/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SadashivGawade321/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SadashivGawade321/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
