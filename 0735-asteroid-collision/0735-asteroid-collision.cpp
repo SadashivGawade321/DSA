@@ -4,31 +4,22 @@ public:
 
         vector<int> st;
 
-        for (int a : asteroids) {
-
-            bool alive = true;
-
-            while (!st.empty() && a < 0 && st.back() > 0) {
-
-                if (st.back() < -a) {
-                    st.pop_back();
-                }
-                else if (st.back() == -a) {
-                    st.pop_back();
-                    alive = false;
-                    break;
-                }
-                else {
-                    alive = false;
-                    break;
-                }
-            }
-
-            if (alive) {
+        for (int i = 0; i < asteroids.size(); i++) {
+            int a = asteroids[i];
+            if (a > 0) {
                 st.push_back(a);
+            } else {
+                while (!st.empty() && st.back() > 0 && st.back() < abs(a)) {
+                    st.pop_back();
+                }
+                if(!st.empty()&&st.back()==abs(a)){
+                    st.pop_back();
+                }
+                else if(st.empty()||st.back() <0){
+                    st.push_back(a);
+                }
             }
         }
-
         return st;
     }
 };
