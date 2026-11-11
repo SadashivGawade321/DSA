@@ -9,7 +9,6 @@ public:
 
         vector<int> left(n), right(n);
 
-        // Previous smaller element
         for (int i = 0; i < n; i++) {
             while (!st.empty() && arr[st.top()] > arr[i]) {
                 st.pop();
@@ -19,9 +18,9 @@ public:
             st.push(i);
         }
 
-        while (!st.empty()) st.pop();
+        while (!st.empty())
+            st.pop();
 
-        // Next smaller or equal element
         for (int i = n - 1; i >= 0; i--) {
             while (!st.empty() && arr[st.top()] >= arr[i]) {
                 st.pop();
@@ -31,7 +30,7 @@ public:
             st.push(i);
         }
 
-        // Calculate contribution
+
         for (int i = 0; i < n; i++) {
             long long count = (long long)(i - left[i]) * (right[i] - i);
             ans = (ans + arr[i] * count) % mod;
