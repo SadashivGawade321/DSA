@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SadashivGawade321/DSA/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/SadashivGawade321/DSA/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/SadashivGawade321/DSA/tree/master/0420-strong-password-checker) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SadashivGawade321/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SadashivGawade321/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SadashivGawade321/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SadashivGawade321/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/SadashivGawade321/DSA/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SadashivGawade321/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SadashivGawade321/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/SadashivGawade321/DSA/tree/master/0735-asteroid-collision) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SadashivGawade321/DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/SadashivGawade321/DSA/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SadashivGawade321/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SadashivGawade321/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/SadashivGawade321/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SadashivGawade321/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/SadashivGawade321/DSA/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/SadashivGawade321/DSA/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/SadashivGawade321/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/SadashivGawade321/DSA/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/SadashivGawade321/DSA/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/SadashivGawade321/DSA/tree/master/0424-longest-repeating-character-replacement) |
