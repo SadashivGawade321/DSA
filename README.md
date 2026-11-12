@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SadashivGawade321/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SadashivGawade321/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SadashivGawade321/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2104-sum-of-subarray-ranges](https://github.com/SadashivGawade321/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SadashivGawade321/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SadashivGawade321/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SadashivGawade321/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SadashivGawade321/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SadashivGawade321/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/SadashivGawade321/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/SadashivGawade321/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SadashivGawade321/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/SadashivGawade321/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/SadashivGawade321/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Quicksort
 |  |
 | ------- |
