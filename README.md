@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SadashivGawade321/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SadashivGawade321/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/SadashivGawade321/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SadashivGawade321/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/SadashivGawade321/DSA/tree/master/0456-132-pattern) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SadashivGawade321/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SadashivGawade321/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/SadashivGawade321/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SadashivGawade321/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/SadashivGawade321/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SadashivGawade321/DSA/tree/master/0525-contiguous-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SadashivGawade321/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SadashivGawade321/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SadashivGawade321/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SadashivGawade321/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SadashivGawade321/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SadashivGawade321/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SadashivGawade321/DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/SadashivGawade321/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SadashivGawade321/DSA/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/SadashivGawade321/DSA/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/SadashivGawade321/DSA/tree/master/0367-valid-perfect-square) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SadashivGawade321/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/SadashivGawade321/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/SadashivGawade321/DSA/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/SadashivGawade321/DSA/tree/master/0456-132-pattern) |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SadashivGawade321/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SadashivGawade321/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/SadashivGawade321/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SadashivGawade321/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SadashivGawade321/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
