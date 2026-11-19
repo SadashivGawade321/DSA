@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/SadashivGawade321/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SadashivGawade321/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1037-valid-boomerang](https://github.com/SadashivGawade321/DSA/tree/master/1037-valid-boomerang) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SadashivGawade321/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SadashivGawade321/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SadashivGawade321/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/SadashivGawade321/DSA/tree/master/0908-smallest-range-i) |
+| [1037-valid-boomerang](https://github.com/SadashivGawade321/DSA/tree/master/1037-valid-boomerang) |
 | [2235-add-two-integers](https://github.com/SadashivGawade321/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/SadashivGawade321/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SadashivGawade321/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -421,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SadashivGawade321/DSA/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/SadashivGawade321/DSA/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
