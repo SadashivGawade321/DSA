@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SadashivGawade321/DSA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/SadashivGawade321/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/SadashivGawade321/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0908-smallest-range-i](https://github.com/SadashivGawade321/DSA/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SadashivGawade321/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SadashivGawade321/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/SadashivGawade321/DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0728-self-dividing-numbers) |
+| [0908-smallest-range-i](https://github.com/SadashivGawade321/DSA/tree/master/0908-smallest-range-i) |
 | [2235-add-two-integers](https://github.com/SadashivGawade321/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/SadashivGawade321/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/SadashivGawade321/DSA/tree/master/3871-count-commas-in-range-ii) |
