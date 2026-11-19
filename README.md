@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SadashivGawade321/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/SadashivGawade321/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SadashivGawade321/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/SadashivGawade321/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SadashivGawade321/DSA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/SadashivGawade321/DSA/tree/master/0904-fruit-into-baskets) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SadashivGawade321/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SadashivGawade321/DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/SadashivGawade321/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SadashivGawade321/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SadashivGawade321/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SadashivGawade321/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SadashivGawade321/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SadashivGawade321/DSA/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SadashivGawade321/DSA/tree/master/0728-self-dividing-numbers) |
 | [2235-add-two-integers](https://github.com/SadashivGawade321/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/SadashivGawade321/DSA/tree/master/3870-count-commas-in-range) |
