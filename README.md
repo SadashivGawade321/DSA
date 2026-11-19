@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SadashivGawade321/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SadashivGawade321/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SadashivGawade321/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/SadashivGawade321/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SadashivGawade321/DSA/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/SadashivGawade321/DSA/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/SadashivGawade321/DSA/tree/master/0367-valid-perfect-square) |
@@ -395,4 +396,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SadashivGawade321/DSA/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SadashivGawade321/DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SadashivGawade321/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SadashivGawade321/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SadashivGawade321/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SadashivGawade321/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
