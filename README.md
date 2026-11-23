@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/SadashivGawade321/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SadashivGawade321/DSA/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/SadashivGawade321/DSA/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/SadashivGawade321/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SadashivGawade321/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SadashivGawade321/DSA/tree/master/0268-missing-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SadashivGawade321/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SadashivGawade321/DSA/tree/master/0042-trapping-rain-water) |
+| [0227-basic-calculator-ii](https://github.com/SadashivGawade321/DSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/SadashivGawade321/DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SadashivGawade321/DSA/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SadashivGawade321/DSA/tree/master/0456-132-pattern) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SadashivGawade321/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/SadashivGawade321/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/SadashivGawade321/DSA/tree/master/0115-distinct-subsequences) |
+| [0227-basic-calculator-ii](https://github.com/SadashivGawade321/DSA/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/SadashivGawade321/DSA/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/SadashivGawade321/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/SadashivGawade321/DSA/tree/master/0412-fizz-buzz) |
